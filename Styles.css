@@ -1,0 +1,7 @@
+.buttons button.operator {
+  background-color: #FF5722;
+}
+
+.buttons button.size-1x1:not(.operator) {
+  background-color: #4CAF50;
+}
